@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.9.0
+python-dotenv==0.21.1
+requests~=2.31.0
+loguru~=0.7.0
+peewee~=3.16.2
