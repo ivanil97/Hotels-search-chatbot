@@ -12,11 +12,11 @@ Hotels" (https://rapidapi.com/apidojo/api/hotels4/details)
 3. Клонируйте репозиторий с помощью одной из команд:
 
 ```
-git clone git@gitlab.skillbox.ru:ivan_ilin/python_basic_diploma.git
+git clone git@github.com:ivanil97/Hotels-search-chatbot.git
 ```
 
 ```
-git clone https://gitlab.skillbox.ru/ivan_ilin/python_basic_diploma.git
+git clone https://github.com/ivanil97/Hotels-search-chatbot.git
 ```
 
 4. Создайте файл `.env` по аналогии с файлом `.env.template` и внесите туда ключ API и токен вашего бота:
